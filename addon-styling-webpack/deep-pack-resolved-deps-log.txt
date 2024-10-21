@@ -1,0 +1,4 @@
+@stroybook/addon-styling@latest
+@stroybook/addon-styling-webpack@latest
+@storybook/node-logger@8.3.6
+@storybook/addon-styling-webpack@latest
