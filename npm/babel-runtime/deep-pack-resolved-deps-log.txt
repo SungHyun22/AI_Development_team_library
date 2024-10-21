@@ -1,2 +1,0 @@
-regenerator-runtime@0.14.1
-@babel/runtime@latest

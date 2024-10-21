@@ -1,8 +1,0 @@
-picocolors@1.1.0
-cssesc@3.0.0
-fastparse@1.1.2
-camelcase-css@2.0.1
-culori@3.3.0
-postcss-js@4.0.1
-css-selector-tokenizer@0.8.0
-daisyui@latest

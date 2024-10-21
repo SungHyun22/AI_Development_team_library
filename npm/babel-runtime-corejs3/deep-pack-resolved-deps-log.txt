@@ -1,3 +1,0 @@
-core-js-pure@3.38.1
-regenerator-runtime@0.14.1
-@babel/runtime-corejs3@latest
