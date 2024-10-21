@@ -1,0 +1,7 @@
+react-fontawsome@latest
+react-is@16.13.1
+object-assign@4.1.1
+js-tokens@4.0.0
+loose-envify@1.4.0
+prop-types@15.8.1
+@fortawesome/react-fontawesome@latest

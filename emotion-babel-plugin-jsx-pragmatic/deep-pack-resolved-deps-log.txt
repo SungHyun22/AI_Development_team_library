@@ -1,0 +1,4 @@
+@emotion/babel-lugin-jsx-pragmatic@latest
+@babel/helper-plugin-utils@7.25.7
+@babel/plugin-syntax-jsx@7.25.7
+@emotion/babel-plugin-jsx-pragmatic@latest
