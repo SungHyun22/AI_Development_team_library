@@ -1,0 +1,6 @@
+@redux/toolkit@latest
+immer@10.1.1
+redux-thunk@3.1.0
+redux@5.0.1
+reselect@5.1.1
+@reduxjs/toolkit@latest
